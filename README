@@ -1,0 +1,11 @@
+Genetic algorithm written in python
+
+Snakes are "trying" to get to target.
+
+Barriers cancel snakes' movement.
+
+Origin of snakes can be changed with LMB.
+Target can be changed with RMB.
+
+by
+Hard Drill Studio
